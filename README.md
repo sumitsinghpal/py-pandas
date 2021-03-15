@@ -1,2 +1,2 @@
 # py-pandas
-#all my practice and research on ptyhon,pandas ,matplotlib,numpy and sklearn
+#all my practice and research on python,pandas ,matplotlib,numpy and sklearn
